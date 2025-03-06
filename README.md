@@ -112,6 +112,9 @@ If coordinates are valid:
  - Extreme outliers (distance > 1000 km) are filtered out.
  - Geographic range (min/max latitude and longitude) is updated dynamically.
 
+<img width="1344" alt="GeographicRange" src="https://github.com/user-attachments/assets/0e61feab-8ae1-4077-a04a-43bc3a23676d" />
+
+
 ### 5. Trip Distance Calculation (Haversine Formula)
 -	Used the Haversine formula to calculate the actual distance between pickup and drop-off locations.
 -	Accounts for the curvature of the Earth for accurate distance measurement.
